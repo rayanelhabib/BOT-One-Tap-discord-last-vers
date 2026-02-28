@@ -1,0 +1,22 @@
+{
+  "1376993662793285672": {
+    "createChannelName": "・Join To Create",
+    "createChannelId": "1409235651832057939",
+    "tempChannelCategory": "1409235593518645279",
+    "tempChannelCategoryId": "1409235593518645279",
+    "autoDeleteEmpty": true,
+    "allowRenaming": true,
+    "defaultUserLimit": 0,
+    "prefix": ".v"
+  },
+  "1438935168168497265": {
+    "createChannelName": "﹝🔊﹞┆Dai2 ・Zone",
+    "createChannelId": "1459203392889950461",
+    "tempChannelCategory": "1459203269644521474",
+    "tempChannelCategoryId": "1459203269644521474",
+    "autoDeleteEmpty": true,
+    "allowRenaming": true,
+    "defaultUserLimit": 0,
+    "prefix": ".v"
+  }
+}

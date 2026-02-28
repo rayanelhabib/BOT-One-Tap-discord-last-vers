@@ -1,0 +1,36 @@
+# Ignore Markdown files
+*.md
+
+# Ignore environment files
+*.env
+.env
+
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+
+# Temporary text files
+*.txt
+
+# Test scripts at root
+test-*.js
+test_*.js
+
+# Editor directories
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

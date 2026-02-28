@@ -1,0 +1,3648 @@
+🚀 One Tap Bot - Starting...
+================================
+⚠️ Redis disabled - running in memory-only mode
+🚀 Starting bot initialization...
+⚠️ No Redis configuration found, running without Redis...
+[PREMIUM] Data loaded from JSON (Redis not available, using cache only)
+✅ Premium Manager initialized
+[PERFORMANCE] 🚀 Monitoring ultra-rapide activé
+✅ Ultra-Fast Performance Monitor initialized
+✅ Loaded event: guildCreate
+✅ Loaded event: guildDelete
+✅ Loaded event: interactionCreate
+✅ Loaded event: messageCreate
+✅ Loaded event: ready
+[PREBUILD] ✅ Système de pré-construction initialisé
+✅ Loaded event: voiceStateUpdate
+[PREBUILD] ✅ Système de pré-construction initialisé
+✅ Loaded event: voiceStateUpdate
+[PREBUILD] ✅ Système de pré-construction initialisé
+✅ Loaded event: voiceStateUpdate
+✅ Loaded prefix command: activity
+✅ Loaded prefix command: blacklist
+✅ Loaded prefix command alias: bl -> blacklist
+✅ Loaded prefix command: cam
+✅ Loaded prefix command: claim
+✅ Loaded prefix command: fm
+✅ Loaded prefix command: fm
+✅ Loaded prefix command: funm
+✅ Loaded prefix command: help
+✅ Loaded prefix command: helpnadi
+✅ Loaded prefix command: hide
+✅ Loaded prefix command: kick
+✅ Loaded prefix command: leaderboard
+✅ Loaded prefix command: limit
+✅ Loaded prefix command: lock
+✅ Loaded prefix command: manager
+✅ Loaded prefix command alias: man -> manager
+✅ Loaded prefix command alias: m -> manager
+✅ Loaded prefix command: name
+✅ Loaded prefix command: owner
+✅ Loaded prefix command: permit
+✅ Loaded prefix command: permitrole
+✅ Loaded prefix command: ping
+✅ Loaded prefix command: premium
+✅ Loaded prefix command: reject
+✅ Loaded prefix command alias: deny -> reject
+✅ Loaded prefix command: rejectrole
+✅ Loaded prefix command: request
+✅ Loaded prefix command: reset
+✅ Loaded prefix command: sb
+✅ Loaded prefix command: setup
+✅ Loaded prefix command: showsetup
+✅ Loaded prefix command: status
+✅ Loaded prefix command: stream
+✅ Loaded prefix command: task
+✅ Loaded prefix command: taskadd
+✅ Loaded prefix command: tlock
+✅ Loaded prefix command: transfer
+✅ Loaded prefix command: trash
+✅ Loaded prefix command: tunlock
+✅ Loaded prefix command: unhide
+✅ Loaded prefix command: unlock
+✅ Loaded prefix command: vcinfo
+✅ Loaded prefix command: whitelist
+✅ Loaded prefix command alias: wl -> whitelist
+✅ Loaded slash command: undefined
+✅ Bot initialization completed successfully
+================================
+✅ Logged in as Rayina tab#2116
+[READY] 🔧 Vérification du setup pour: 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙚𝙧'𝙨  𝓒𝓮𝓷𝓽𝓮𝓻 (1438935168168497265)
+(node:3556) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[READY] Config récupérée: {
+  createChannelName: '➕ Créer un salon',
+  createChannelId: null,
+  tempChannelCategory: null,
+  tempChannelCategoryId: null,
+  autoDeleteEmpty: true,
+  allowRenaming: true,
+  defaultUserLimit: 0,
+  prefix: '.v'
+}
+[READY] ⚠️ Config incomplète ou absente. Aucune création automatique. Attente de la commande setup.
+🔁 Registering slash commands in 1 guilds...
+✅ Registered 1 commands in guild 1438935168168497265
+🏆 Initializing task leaderboards...
+[LEADERBOARD] Initializing leaderboard for guild: 1438935168168497265
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[LEADERBOARD] Started periodic monitoring for guild: 1438935168168497265
+✅ Task leaderboards initialized
+[PREBUILD] ✅ Composants de bienvenue pré-construits au démarrage
+[PREBUILD] ✅ Composants de bienvenue pré-construits au démarrage
+[PREBUILD] ✅ Composants de bienvenue pré-construits au démarrage
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:18:40.806Z',
+  uptime: '4s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '28MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:18:45.811Z',
+  uptime: '10s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:18:50.824Z',
+  uptime: '14s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:18:55.834Z',
+  uptime: '19s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:19:00.848Z',
+  uptime: '24s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:19:05.857Z',
+  uptime: '30s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:19:10.870Z',
+  uptime: '34s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:19:15.871Z',
+  uptime: '40s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:19:20.886Z',
+  uptime: '45s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:19:25.897Z',
+  uptime: '50s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:19:30.907Z',
+  uptime: '54s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:19:35.915Z',
+  uptime: '60s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:19:40.920Z',
+  uptime: '65s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:19:45.920Z',
+  uptime: '70s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:19:50.923Z',
+  uptime: '75s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:19:55.931Z',
+  uptime: '80s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:20:00.939Z',
+  uptime: '85s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:20:05.946Z',
+  uptime: '90s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:20:10.949Z',
+  uptime: '95s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:20:15.964Z',
+  uptime: '100s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:20:20.970Z',
+  uptime: '105s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:20:25.977Z',
+  uptime: '110s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:20:30.987Z',
+  uptime: '115s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:20:35.999Z',
+  uptime: '120s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:20:41.012Z',
+  uptime: '125s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:20:46.024Z',
+  uptime: '130s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:20:51.036Z',
+  uptime: '135s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:20:56.037Z',
+  uptime: '140s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:21:01.043Z',
+  uptime: '145s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:21:06.042Z',
+  uptime: '150s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:21:11.051Z',
+  uptime: '155s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:21:16.060Z',
+  uptime: '160s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:21:21.072Z',
+  uptime: '165s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:21:26.080Z',
+  uptime: '170s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:21:31.082Z',
+  uptime: '175s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:21:36.091Z',
+  uptime: '180s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:21:41.102Z',
+  uptime: '185s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:21:46.111Z',
+  uptime: '190s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:21:51.118Z',
+  uptime: '195s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:21:56.127Z',
+  uptime: '200s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:22:01.129Z',
+  uptime: '205s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:22:06.138Z',
+  uptime: '210s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:22:11.152Z',
+  uptime: '215s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:22:16.155Z',
+  uptime: '220s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:22:21.159Z',
+  uptime: '225s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:22:26.161Z',
+  uptime: '230s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:22:31.171Z',
+  uptime: '235s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:22:36.177Z',
+  uptime: '240s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:22:41.190Z',
+  uptime: '245s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:22:46.204Z',
+  uptime: '250s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:22:51.214Z',
+  uptime: '255s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:22:56.232Z',
+  uptime: '260s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:23:01.231Z',
+  uptime: '265s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:23:06.244Z',
+  uptime: '270s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:23:11.254Z',
+  uptime: '275s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:23:16.265Z',
+  uptime: '280s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:23:21.279Z',
+  uptime: '285s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:23:26.287Z',
+  uptime: '290s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:23:31.290Z',
+  uptime: '295s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:23:36.304Z',
+  uptime: '300s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:23:41.310Z',
+  uptime: '305s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:23:46.310Z',
+  uptime: '310s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:23:51.322Z',
+  uptime: '315s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:23:56.326Z',
+  uptime: '320s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:24:01.340Z',
+  uptime: '325s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:24:06.344Z',
+  uptime: '330s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:24:11.345Z',
+  uptime: '335s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:24:16.353Z',
+  uptime: '340s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:24:21.365Z',
+  uptime: '345s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:24:26.376Z',
+  uptime: '350s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:24:31.381Z',
+  uptime: '355s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:24:36.387Z',
+  uptime: '360s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:24:41.396Z',
+  uptime: '365s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:24:46.397Z',
+  uptime: '370s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:24:51.411Z',
+  uptime: '375s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:24:56.414Z',
+  uptime: '380s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:25:01.419Z',
+  uptime: '385s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:25:06.423Z',
+  uptime: '390s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:25:11.431Z',
+  uptime: '395s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:25:16.442Z',
+  uptime: '400s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:25:21.445Z',
+  uptime: '405s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:25:26.452Z',
+  uptime: '410s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:25:31.468Z',
+  uptime: '415s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:25:36.477Z',
+  uptime: '420s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:25:41.482Z',
+  uptime: '425s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:25:46.482Z',
+  uptime: '430s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:25:51.498Z',
+  uptime: '435s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:25:56.501Z',
+  uptime: '440s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:26:01.508Z',
+  uptime: '445s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:26:06.509Z',
+  uptime: '450s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:26:11.511Z',
+  uptime: '455s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:26:16.515Z',
+  uptime: '460s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:26:21.525Z',
+  uptime: '465s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:26:26.525Z',
+  uptime: '470s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:26:31.538Z',
+  uptime: '475s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:26:36.549Z',
+  uptime: '480s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:26:41.562Z',
+  uptime: '485s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:26:46.565Z',
+  uptime: '490s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:26:51.571Z',
+  uptime: '495s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:26:56.573Z',
+  uptime: '500s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:27:01.581Z',
+  uptime: '505s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:27:06.589Z',
+  uptime: '510s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:27:11.595Z',
+  uptime: '515s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:27:16.605Z',
+  uptime: '520s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:27:21.620Z',
+  uptime: '525s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:27:26.631Z',
+  uptime: '530s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:27:31.645Z',
+  uptime: '535s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:27:36.651Z',
+  uptime: '540s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:27:41.659Z',
+  uptime: '545s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:27:46.669Z',
+  uptime: '550s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:27:51.669Z',
+  uptime: '555s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:27:56.684Z',
+  uptime: '560s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:28:01.690Z',
+  uptime: '565s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:28:06.693Z',
+  uptime: '570s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:28:11.700Z',
+  uptime: '575s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:28:16.712Z',
+  uptime: '580s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:28:21.724Z',
+  uptime: '585s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:28:26.727Z',
+  uptime: '590s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:28:31.731Z',
+  uptime: '595s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:28:36.734Z',
+  uptime: '600s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:28:41.742Z',
+  uptime: '605s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:28:46.744Z',
+  uptime: '610s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:28:51.753Z',
+  uptime: '615s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:28:56.756Z',
+  uptime: '620s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+⚠️ Redis not connected, rate limiting disabled
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:29:01.759Z',
+  uptime: '625s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '21MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:29:06.764Z',
+  uptime: '630s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:29:11.778Z',
+  uptime: '635s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:29:16.781Z',
+  uptime: '640s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+Error in event interactionCreate: DiscordAPIError[50035]: Invalid Form Body
+data.components[2].components[0].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[2].components[1].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[2].components[2].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[2].components[3].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[2].components[4].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+    at handleErrors (c:\Users\elhab\Downloads\Soran_onetap\node_modules\@discordjs\rest\dist\index.js:762:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async BurstHandler.runRequest (c:\Users\elhab\Downloads\Soran_onetap\node_modules\@discordjs\rest\dist\index.js:866:23)
+    at async _REST.request (c:\Users\elhab\Downloads\Soran_onetap\node_modules\@discordjs\rest\dist\index.js:1307:22)
+    at async ButtonInteraction.update (c:\Users\elhab\Downloads\Soran_onetap\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:361:22)
+    at async Object.execute (c:\Users\elhab\Downloads\Soran_onetap\src\events\interactionCreate.js:4025:13)
+    at async Client.executor (c:\Users\elhab\Downloads\Soran_onetap\src\bot.js:76:11) {
+  requestBody: { files: [], json: { type: 7, data: [Object] } },
+  rawError: {
+    message: 'Invalid Form Body',
+    code: 50035,
+    errors: { data: [Object] }
+  },
+  code: 50035,
+  status: 400,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/interactions/1477085214667706439/aW50ZXJhY3Rpb246MTQ3NzA4NTIxNDY2NzcwNjQzOTowa1RJTXVpUHF1cmlkaVF6TElLWGdCd3VHQjNZSTl6MVBEU2N1Y1NzRTY1RDRKZ2NlMzJHcnpMRHFXVXFXektFRHJBTFVmRXpjV1c1VFRjMlR6eWNFZHBPaVExb1lRZEdVVk84R3I2SHBhN3Y4YTdtSFVXcXZoZ0JxSWM4TURlTg/callback?with_response=false'
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:29:21.784Z',
+  uptime: '645s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:29:26.794Z',
+  uptime: '650s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:29:31.798Z',
+  uptime: '655s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:29:36.809Z',
+  uptime: '660s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:29:41.816Z',
+  uptime: '665s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:29:46.817Z',
+  uptime: '670s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:29:51.826Z',
+  uptime: '675s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:29:56.827Z',
+  uptime: '680s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:30:01.830Z',
+  uptime: '686s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:30:06.839Z',
+  uptime: '690s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:30:11.851Z',
+  uptime: '695s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:30:16.853Z',
+  uptime: '701s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:30:21.864Z',
+  uptime: '705s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:30:26.875Z',
+  uptime: '711s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:30:31.888Z',
+  uptime: '716s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:30:36.897Z',
+  uptime: '721s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:30:41.901Z',
+  uptime: '726s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:30:46.908Z',
+  uptime: '731s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:30:51.918Z',
+  uptime: '736s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:30:56.929Z',
+  uptime: '741s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:31:01.945Z',
+  uptime: '746s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:31:06.954Z',
+  uptime: '751s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:31:11.967Z',
+  uptime: '756s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:31:16.974Z',
+  uptime: '761s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:31:21.980Z',
+  uptime: '766s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:31:26.984Z',
+  uptime: '771s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:31:31.997Z',
+  uptime: '776s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:31:37.001Z',
+  uptime: '781s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+Error in event interactionCreate: DiscordAPIError[50035]: Invalid Form Body
+data.components[2].components[0].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[2].components[1].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[2].components[2].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[2].components[3].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[2].components[4].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+    at handleErrors (c:\Users\elhab\Downloads\Soran_onetap\node_modules\@discordjs\rest\dist\index.js:762:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async BurstHandler.runRequest (c:\Users\elhab\Downloads\Soran_onetap\node_modules\@discordjs\rest\dist\index.js:866:23)
+    at async _REST.request (c:\Users\elhab\Downloads\Soran_onetap\node_modules\@discordjs\rest\dist\index.js:1307:22)
+    at async ButtonInteraction.update (c:\Users\elhab\Downloads\Soran_onetap\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:361:22)
+    at async Object.execute (c:\Users\elhab\Downloads\Soran_onetap\src\events\interactionCreate.js:4025:13)
+    at async Client.executor (c:\Users\elhab\Downloads\Soran_onetap\src\bot.js:76:11) {
+  requestBody: { files: [], json: { type: 7, data: [Object] } },
+  rawError: {
+    message: 'Invalid Form Body',
+    code: 50035,
+    errors: { data: [Object] }
+  },
+  code: 50035,
+  status: 400,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/interactions/1477085822854496448/aW50ZXJhY3Rpb246MTQ3NzA4NTgyMjg1NDQ5NjQ0ODoxT2xEcHlnMExhdWZtV3ZqMG40N0xpemtudzJDMFVIRG9WM25IZEJoOVRqVHNTaGtMaW1YZDJ4dVNvT0M1MG5GbGkwb1B2NFM2bDZpV1czZHRmZnhNYkFLWTkxSXpwTTRLTVhYQm1nSGZIRnJHMlpKYUpCM2VRQ2liRnlSbzlwdw/callback?with_response=false'
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:31:42.011Z',
+  uptime: '786s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:31:47.019Z',
+  uptime: '791s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:31:52.031Z',
+  uptime: '796s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:31:57.041Z',
+  uptime: '801s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:32:02.044Z',
+  uptime: '806s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:32:07.055Z',
+  uptime: '811s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:32:12.061Z',
+  uptime: '816s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:32:17.071Z',
+  uptime: '821s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:32:22.078Z',
+  uptime: '826s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:32:27.082Z',
+  uptime: '831s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:32:32.090Z',
+  uptime: '836s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:32:37.096Z',
+  uptime: '841s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:32:42.099Z',
+  uptime: '846s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:32:47.111Z',
+  uptime: '851s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:32:52.124Z',
+  uptime: '856s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:32:57.128Z',
+  uptime: '861s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:33:02.131Z',
+  uptime: '866s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:33:07.133Z',
+  uptime: '871s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:33:12.134Z',
+  uptime: '876s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:33:17.146Z',
+  uptime: '881s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:33:22.148Z',
+  uptime: '886s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:33:27.150Z',
+  uptime: '891s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:33:32.163Z',
+  uptime: '896s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:33:37.174Z',
+  uptime: '901s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:33:42.174Z',
+  uptime: '906s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:33:47.177Z',
+  uptime: '911s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:33:52.180Z',
+  uptime: '916s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:33:57.188Z',
+  uptime: '921s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:34:02.197Z',
+  uptime: '926s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:34:07.210Z',
+  uptime: '931s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:34:12.212Z',
+  uptime: '936s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:34:17.219Z',
+  uptime: '941s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:34:22.232Z',
+  uptime: '946s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:34:27.242Z',
+  uptime: '951s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:34:32.256Z',
+  uptime: '956s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:34:37.261Z',
+  uptime: '961s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:34:42.276Z',
+  uptime: '966s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:34:47.287Z',
+  uptime: '971s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:34:52.301Z',
+  uptime: '976s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:34:57.309Z',
+  uptime: '981s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:35:02.321Z',
+  uptime: '986s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:35:07.331Z',
+  uptime: '991s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:35:12.344Z',
+  uptime: '996s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:35:17.357Z',
+  uptime: '1001s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:35:22.365Z',
+  uptime: '1006s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:35:27.370Z',
+  uptime: '1011s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:35:32.373Z',
+  uptime: '1016s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:35:37.378Z',
+  uptime: '1021s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:35:42.381Z',
+  uptime: '1026s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:35:47.396Z',
+  uptime: '1031s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:35:52.404Z',
+  uptime: '1036s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:35:57.419Z',
+  uptime: '1041s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:36:02.422Z',
+  uptime: '1046s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:36:07.428Z',
+  uptime: '1051s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:36:12.434Z',
+  uptime: '1056s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:36:17.438Z',
+  uptime: '1061s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:36:22.442Z',
+  uptime: '1066s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:36:27.444Z',
+  uptime: '1071s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:36:32.456Z',
+  uptime: '1076s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:36:37.464Z',
+  uptime: '1081s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:36:42.465Z',
+  uptime: '1086s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:36:47.466Z',
+  uptime: '1091s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:36:52.469Z',
+  uptime: '1096s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:36:57.477Z',
+  uptime: '1101s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:37:02.492Z',
+  uptime: '1106s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:37:07.501Z',
+  uptime: '1111s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:37:12.505Z',
+  uptime: '1116s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:37:17.512Z',
+  uptime: '1121s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:37:22.516Z',
+  uptime: '1126s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:37:27.523Z',
+  uptime: '1131s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:37:32.537Z',
+  uptime: '1136s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:37:37.547Z',
+  uptime: '1141s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:37:42.548Z',
+  uptime: '1146s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:37:47.556Z',
+  uptime: '1151s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:37:52.564Z',
+  uptime: '1156s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:37:57.573Z',
+  uptime: '1161s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:38:02.574Z',
+  uptime: '1166s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:38:07.578Z',
+  uptime: '1171s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:38:12.589Z',
+  uptime: '1176s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:38:17.594Z',
+  uptime: '1181s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:38:22.604Z',
+  uptime: '1186s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:38:27.608Z',
+  uptime: '1191s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:38:32.611Z',
+  uptime: '1196s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:38:37.623Z',
+  uptime: '1201s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:38:42.633Z',
+  uptime: '1206s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:38:47.647Z',
+  uptime: '1211s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:38:52.657Z',
+  uptime: '1216s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:38:57.667Z',
+  uptime: '1221s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:39:02.678Z',
+  uptime: '1226s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:39:07.692Z',
+  uptime: '1231s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:39:12.691Z',
+  uptime: '1236s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:39:17.700Z',
+  uptime: '1241s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:39:22.707Z',
+  uptime: '1246s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:39:27.721Z',
+  uptime: '1251s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:39:32.727Z',
+  uptime: '1256s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:39:37.740Z',
+  uptime: '1261s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:39:42.741Z',
+  uptime: '1266s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:39:47.743Z',
+  uptime: '1271s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:39:52.750Z',
+  uptime: '1276s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:39:57.764Z',
+  uptime: '1281s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:40:02.772Z',
+  uptime: '1286s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:40:07.782Z',
+  uptime: '1291s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:40:12.797Z',
+  uptime: '1296s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:40:17.798Z',
+  uptime: '1301s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:40:22.814Z',
+  uptime: '1306s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:40:27.819Z',
+  uptime: '1311s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:40:32.828Z',
+  uptime: '1316s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:40:37.831Z',
+  uptime: '1321s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:40:42.843Z',
+  uptime: '1326s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:40:47.856Z',
+  uptime: '1332s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:40:52.868Z',
+  uptime: '1337s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:40:57.869Z',
+  uptime: '1341s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:41:02.882Z',
+  uptime: '1347s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:41:07.894Z',
+  uptime: '1352s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:41:12.900Z',
+  uptime: '1357s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:41:17.912Z',
+  uptime: '1362s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:41:22.926Z',
+  uptime: '1367s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:41:27.938Z',
+  uptime: '1372s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:41:32.939Z',
+  uptime: '1377s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:41:37.951Z',
+  uptime: '1382s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:41:42.961Z',
+  uptime: '1387s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:41:47.962Z',
+  uptime: '1392s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:41:52.965Z',
+  uptime: '1397s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:41:57.981Z',
+  uptime: '1402s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:42:02.984Z',
+  uptime: '1407s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:42:07.990Z',
+  uptime: '1412s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:42:12.993Z',
+  uptime: '1417s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:42:17.994Z',
+  uptime: '1422s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:42:23.004Z',
+  uptime: '1427s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:42:28.017Z',
+  uptime: '1432s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:42:33.019Z',
+  uptime: '1437s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:42:38.025Z',
+  uptime: '1442s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+⚠️ Redis not connected, rate limiting disabled
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:42:43.034Z',
+  uptime: '1447s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+Error in event interactionCreate: DiscordAPIError[50035]: Invalid Form Body
+data.components[2].components[0].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[2].components[1].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[2].components[2].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[2].components[3].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[2].components[4].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+    at handleErrors (c:\Users\elhab\Downloads\Soran_onetap\node_modules\@discordjs\rest\dist\index.js:762:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async BurstHandler.runRequest (c:\Users\elhab\Downloads\Soran_onetap\node_modules\@discordjs\rest\dist\index.js:866:23)
+    at async _REST.request (c:\Users\elhab\Downloads\Soran_onetap\node_modules\@discordjs\rest\dist\index.js:1307:22)
+    at async ButtonInteraction.update (c:\Users\elhab\Downloads\Soran_onetap\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:361:22)
+    at async Object.execute (c:\Users\elhab\Downloads\Soran_onetap\src\events\interactionCreate.js:4025:13)
+    at async Client.executor (c:\Users\elhab\Downloads\Soran_onetap\src\bot.js:76:11) {
+  requestBody: { files: [], json: { type: 7, data: [Object] } },
+  rawError: {
+    message: 'Invalid Form Body',
+    code: 50035,
+    errors: { data: [Object] }
+  },
+  code: 50035,
+  status: 400,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/interactions/1477088609499742248/aW50ZXJhY3Rpb246MTQ3NzA4ODYwOTQ5OTc0MjI0ODpFQ2FoOUg1RTdVeURsbjlTcm1rb2VnSkRFaVFidE13Ym84dldUcjdZNG54VHV5MWdYNENhR0tjNXJHbUU3dmdpQmlxT0F6MjVGRnFMVUNjMkt1TkV4U2NxMEJqa2VhVzZNalNPWThoUU9ON1hkZTVod2doRHpHUlpBQnNMSkt2Yw/callback?with_response=false'
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:42:48.040Z',
+  uptime: '1452s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:42:53.041Z',
+  uptime: '1457s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:42:58.050Z',
+  uptime: '1462s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:43:03.064Z',
+  uptime: '1467s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:43:08.064Z',
+  uptime: '1472s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:43:13.075Z',
+  uptime: '1477s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:43:18.081Z',
+  uptime: '1482s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:43:23.085Z',
+  uptime: '1487s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:43:28.097Z',
+  uptime: '1492s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:43:33.103Z',
+  uptime: '1497s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '22MB',
+  alerts: 0
+}
+[LEADERBOARD] Leaderboard channel not found: 1395159806838444112
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:43:38.115Z',
+  uptime: '1502s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:43:43.118Z',
+  uptime: '1507s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:43:48.124Z',
+  uptime: '1512s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+⚠️ Redis not connected, rate limiting disabled
+Error in event interactionCreate: DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (c:\Users\elhab\Downloads\Soran_onetap\node_modules\@discordjs\rest\dist\index.js:762:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async BurstHandler.runRequest (c:\Users\elhab\Downloads\Soran_onetap\node_modules\@discordjs\rest\dist\index.js:866:23)
+    at async _REST.request (c:\Users\elhab\Downloads\Soran_onetap\node_modules\@discordjs\rest\dist\index.js:1307:22)
+    at async StringSelectMenuInteraction.update (c:\Users\elhab\Downloads\Soran_onetap\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:361:22)
+    at async Object.execute (c:\Users\elhab\Downloads\Soran_onetap\src\events\interactionCreate.js:3844:15)
+    at async Client.executor (c:\Users\elhab\Downloads\Soran_onetap\src\bot.js:76:11) {
+  requestBody: { files: [], json: { type: 7, data: [Object] } },
+  rawError: { message: 'Unknown interaction', code: 10062 },
+  code: 10062,
+  status: 404,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/interactions/1477088895668588605/aW50ZXJhY3Rpb246MTQ3NzA4ODg5NTY2ODU4ODYwNTo3bjY3eGdLYUJ4TTNacWlTdTVtMkJibEhxU09PSzJWdFVnVzNzclJ4NkhVblJjeDBGNUYzQnV1RWh6RnFGNGxHTER0OUs4ZDF4eU41Zko3UDRLYkMwcWc4dnFHZFZNWXdBZkdrVzc4eVFiclY5b0RtSVJ2WlBUMVViN3lmMUZHSw/callback?with_response=false'
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:43:53.133Z',
+  uptime: '1517s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+Error in event interactionCreate: DiscordAPIError[50035]: Invalid Form Body
+data.components[2].components[0].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[2].components[1].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[2].components[2].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[2].components[3].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[2].components[4].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+    at handleErrors (c:\Users\elhab\Downloads\Soran_onetap\node_modules\@discordjs\rest\dist\index.js:762:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async BurstHandler.runRequest (c:\Users\elhab\Downloads\Soran_onetap\node_modules\@discordjs\rest\dist\index.js:866:23)
+    at async _REST.request (c:\Users\elhab\Downloads\Soran_onetap\node_modules\@discordjs\rest\dist\index.js:1307:22)
+    at async ButtonInteraction.update (c:\Users\elhab\Downloads\Soran_onetap\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:361:22)
+    at async Object.execute (c:\Users\elhab\Downloads\Soran_onetap\src\events\interactionCreate.js:4025:13)
+    at async Client.executor (c:\Users\elhab\Downloads\Soran_onetap\src\bot.js:76:11) {
+  requestBody: { files: [], json: { type: 7, data: [Object] } },
+  rawError: {
+    message: 'Invalid Form Body',
+    code: 50035,
+    errors: { data: [Object] }
+  },
+  code: 50035,
+  status: 400,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/interactions/1477088903440760862/aW50ZXJhY3Rpb246MTQ3NzA4ODkwMzQ0MDc2MDg2MjoyU3NRSW54WnhlcWRsNWt5bERmV2tISjdYSnNiZkNhRkZ0SHVpTktkckFnS1lMdEJ3NXdaRmxMZUt2WTZrT1M2SFlhMVZmcjREZmlCRlg5a2dQTnNJUjdrd0h6ZGxWMnlLcFhFczEzRExZejRQd1hoQnZ1Z0ZrRE9KbTlwN0NlUg/callback?with_response=false'
+}
+Error in event interactionCreate: DiscordAPIError[10062]: Unknown interaction
+    at handleErrors (c:\Users\elhab\Downloads\Soran_onetap\node_modules\@discordjs\rest\dist\index.js:762:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async BurstHandler.runRequest (c:\Users\elhab\Downloads\Soran_onetap\node_modules\@discordjs\rest\dist\index.js:866:23)
+    at async _REST.request (c:\Users\elhab\Downloads\Soran_onetap\node_modules\@discordjs\rest\dist\index.js:1307:22)
+    at async StringSelectMenuInteraction.update (c:\Users\elhab\Downloads\Soran_onetap\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:361:22)
+    at async Object.execute (c:\Users\elhab\Downloads\Soran_onetap\src\events\interactionCreate.js:3844:15)
+    at async Client.executor (c:\Users\elhab\Downloads\Soran_onetap\src\bot.js:76:11) {
+  requestBody: { files: [], json: { type: 7, data: [Object] } },
+  rawError: { message: 'Unknown interaction', code: 10062 },
+  code: 10062,
+  status: 404,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/interactions/1477088915331748061/aW50ZXJhY3Rpb246MTQ3NzA4ODkxNTMzMTc0ODA2MTplZTBwdkRGejA4b2NJQXBOS205WkpsNWhCUk41aUY3N1h3ZTJwOWE0V25iNk4yUUxhdU15azZ0TndsSllUWm5jMExydVNUNFhXbUdZQjQ4Y0NnM1NHZkxMZXFsVnVmbDJTdFMxd09nbjhrUExCVmk0aWY1dGdQTkI3OG9wU3JHQQ/callback?with_response=false'
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:43:58.132Z',
+  uptime: '1522s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+Error in event interactionCreate: DiscordAPIError[50035]: Invalid Form Body
+data.components[2].components[0].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[2].components[1].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[2].components[2].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[2].components[3].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+data.components[2].components[4].emoji.id[COMPONENT_INVALID_EMOJI]: Invalid emoji
+    at handleErrors (c:\Users\elhab\Downloads\Soran_onetap\node_modules\@discordjs\rest\dist\index.js:762:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async BurstHandler.runRequest (c:\Users\elhab\Downloads\Soran_onetap\node_modules\@discordjs\rest\dist\index.js:866:23)
+    at async _REST.request (c:\Users\elhab\Downloads\Soran_onetap\node_modules\@discordjs\rest\dist\index.js:1307:22)
+    at async ButtonInteraction.update (c:\Users\elhab\Downloads\Soran_onetap\node_modules\discord.js\src\structures\interfaces\InteractionResponses.js:361:22)
+    at async Object.execute (c:\Users\elhab\Downloads\Soran_onetap\src\events\interactionCreate.js:4025:13)
+    at async Client.executor (c:\Users\elhab\Downloads\Soran_onetap\src\bot.js:76:11) {
+  requestBody: { files: [], json: { type: 7, data: [Object] } },
+  rawError: {
+    message: 'Invalid Form Body',
+    code: 50035,
+    errors: { data: [Object] }
+  },
+  code: 50035,
+  status: 400,
+  method: 'POST',
+  url: 'https://discord.com/api/v10/interactions/1477088922008813568/aW50ZXJhY3Rpb246MTQ3NzA4ODkyMjAwODgxMzU2ODp5ZEhGUUtycDEwZk9UbnFpZUtmeU1nSTNWbkhUTW1CYmxNakM0U2Y4RHFISHpwZkhackFDQ1RPQzFLN3RvNXRFckpYd1NiN3ZUZVA2VEQ0WmZzMllBRkVTdWRYQlpzN1ZyNXl2b1pheUF4d3g3TFJPSkoyMmlXVEdPVWgxNFg1VA/callback?with_response=false'
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:44:03.137Z',
+  uptime: '1527s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:44:08.142Z',
+  uptime: '1532s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}
+[PERFORMANCE] 📊 Rapport: {
+  timestamp: '2026-02-27T23:44:13.144Z',
+  uptime: '1537s',
+  operations: 0,
+  errors: 0,
+  errorRate: '0.00%',
+  avgChannelCreation: '0ms',
+  avgRedisLatency: '0ms',
+  memoryUsage: '23MB',
+  alerts: 0
+}

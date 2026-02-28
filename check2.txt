@@ -1,0 +1,6 @@
+🚀 One Tap Bot - Starting...
+================================
+⚠️ Redis disabled - running in memory-only mode
+🔍 Running in check-only mode...
+✅ Environment check passed
+✅ Configuration is valid
